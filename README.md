@@ -1,2 +1,2 @@
 # ticmas
- proyecto final ticmas primeros pasos
+repositorio del proyecto final ticmas primeros pasos, crear un curriculum vitae.
